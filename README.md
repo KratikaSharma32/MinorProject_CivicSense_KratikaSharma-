@@ -1,4 +1,4 @@
-# 🏛️ CivicSense.City Smart Civic Complaint System
+# CivicSense.City Smart Civic Complaint System
 
 A fully-featured, production-grade smart city complaint management platform with AI detection, real-time notifications, analytics, role-based access, Docker support, CI/CD pipelines, and full test coverage.
 
